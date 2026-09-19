@@ -142,13 +142,9 @@ The login screen provides a simple user interface containing:
 ---
 
 ## Student Details
-
-| Details            | Information                          |
-| ------------------ | ------------------------------------ |
-| **Enrollment No.** | 24012011143                          |
-| **Practical**      | 03                                   |
-| **Subject**        | Mobile Application Development (MAD) |
-
+- **Enrollment No:** 24012011143
+- **Practical:** 03
+- **Subject:** Mobile Application Development (MAD)
 ---
 
 ## Conclusion
